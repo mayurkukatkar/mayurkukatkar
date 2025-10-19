@@ -34,6 +34,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurkukatkar&layout=compact&theme=blueberry" height="160"/>
 </p>
 
+### 🚧 Projects & Roadmap
+- **Spring Boot Microservices Portfolio** – building scalable backend services
+- **Enterprise REST APIs** – designing clean layered architecture
+- **Goal**: Secure a **Java Backend Developer Role** in 2025
+
 ### 🚀 Currently Building
 ```yaml
 Backend Portfolio Progress:
