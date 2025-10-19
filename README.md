@@ -35,3 +35,9 @@ Backend Portfolio Progress:
   - Microservices Architecture (Service Registry, API Gateway)
   - Role-Based Authentication with Spring Security + JWT
   - Clean Code + Layered Architecture
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurkukatkar&theme=blueberry" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurkukatkar&layout=compact&theme=blueberry" height="160"/>
+</p>
